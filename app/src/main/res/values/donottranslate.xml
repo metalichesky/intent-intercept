@@ -10,4 +10,21 @@
 
     <string name="pref_send_test_intent">sendTestIntent</string>
     <string name="pref_intercept_enabled">interceptEnabled</string>
+    <string name="pref_view_source_code">viewSourceCode</string>
+    <string name="pref_view_issue_tracker">viewIssueTracker</string>
+    <string name="pref_license">license</string>
+
+    <string name="source_code_link">https://github.com/metalichesky/intent-intercept</string>
+    <string name="issue_tracker_link">https://github.com/metalichesky/intent-intercept/issues</string>
+    <string name="license_link">http://www.apache.org/licenses/LICENSE-2.0.html</string>
+
+    <string name="intent_action_title">ACTION:</string>
+    <string name="intent_data_title">DATA:</string>
+    <string name="intent_mime_type_title">MIME:</string>
+    <string name="intent_uri_title">URI:</string>
+    <string name="intent_flags_title">FLAGS:</string>
+    <string name="intent_categories_title">CATEGORY:</string>
+    <string name="intent_extras_title">EXTRAS:</string>
+    <string name="last_result_header_title">onActivityResult:</string>
+    <string name="last_result_code_title">resultCode:</string>
 </resources>

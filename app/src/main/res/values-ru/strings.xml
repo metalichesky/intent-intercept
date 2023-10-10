@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Intent Intercept</string>
+
+    <string name="menu_share_title">Поделиться</string>
+    <string name="menu_copy_title">Копировать</string>
+
+    <string name="settings_license_title">Лицензия</string>
+    <string name="settings_enable_intent_intercept_title">Включить перехват</string>
+    <string name="settings_send_test_intent_title">Отправить тестовый Intent</string>
+    <string name="settings_send_test_intent_summary">Нажмите здесь и затем выберите Intent Intercept из списка</string>
+    <string name="settings_view_source_code_title">Открыть исходный код</string>
+    <string name="settings_view_source_code_summary">Открыть исходный код Intent Intercept на Github</string>
+    <string name="settings_report_issue_title">Сообщить об ошибке</string>
+    <string name="settings_report_issue_summary">Открыть страницу ошибок на Github</string>
+
+    <string name="button_title_resend_intent">Переслать Intent</string>
+    <string name="button_title_reset_intent">Сбросить Intent</string>
+    <string name="button_title_send_edited_intent">Отправить отредактированный Intent</string>
+
+    <string name="message_intent_details_copied_to_clipboard">Подробности об Intent скопированы в буфер обмена.</string>
+
+    <string name="intent_filter_label">Перехватить Intent</string>
+    <string name="error_extracting_extras">Ошибка извлечения Extras</string>
+    <string name="send_test_intent_chooser_title">Выберите \'Intercept the Intent\'</string>
+    <string name="send_test_intent_content">Тестовый Intent</string>
+    <string name="no_items">none</string>
+    <string name="extra_item_type_name_title">Класс: </string>
+    <string name="extra_item_type_name_list">Список:</string>
+    <string name="extra_item_key_title">Ключ: </string>
+    <string name="extra_item_value_title">Значение: </string>
+    <string name="intent_matching_activities_title">Подходящие Activities:</string>
+</resources>

@@ -1,4 +1,0 @@
-// else build may fail because of missing internetconnection
-// startParameter.offline=true
-
-include ':app'
